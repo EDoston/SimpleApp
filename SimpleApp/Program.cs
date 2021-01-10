@@ -8,6 +8,8 @@ namespace SimpleApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello world");
+
+            Console.ReadLine();
         }
     }
 }
