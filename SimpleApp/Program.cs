@@ -10,6 +10,7 @@ namespace SimpleApp
             Console.WriteLine("Hello USA");
 
             // Learning git 
+            Console.WriteLine("Hello Franch");
 
             Console.ReadLine();
         }
