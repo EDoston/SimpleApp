@@ -6,8 +6,10 @@ namespace SimpleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello Russia");
+            Console.WriteLine("Hello USA");
+
+            // Learning git 
 
             Console.ReadLine();
         }
